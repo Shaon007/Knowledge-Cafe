@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "coverImage": "../src/assets/images/2.png",
+    "title": "The Future of AI in Everyday Life",
+    "author": "John Doe",
+    "authorPic": "../src/assets/images/boy1.png",
+    "postedDate": "2024-10-15",
+    "readingTime": 5,
+    "hashtags": ["#AI", "#technology", "#innovation"]
+  },
+  {
+    "id": 2,
+    "coverImage": "../src/assets/images/12.png",
+    "title": "10 Tips for a Healthy Lifestyle",
+    "author": "Jane Smith",
+    "authorPic": "../src/assets/images/boy2.png",
+    "postedDate": "2024-10-10",
+    "readingTime": 8,
+    "hashtags": ["#health", "#wellness", "#lifestyle"]
+  },
+  {
+    "id": 3,
+    "coverImage": "../src/assets/images/Rectangle 1.png",
+    "title": "Exploring the Wonders of Space Travel",
+    "author": "Alice Johnson",
+    "authorPic": "../src/assets/images/girl1.jpg",
+    "postedDate": "2024-10-18",
+    "readingTime": 6,
+    "hashtags": ["#space", "#science", "#exploration"]
+  },
+  {
+    "id": 4,
+    "coverImage": "https://example.com/cover4.jpg",
+    "title": "Mastering JavaScript in 30 Days",
+    "author": "Robert Lee",
+    "authorPic": "../src/assets/images/girl2.jpg",
+    "postedDate": "2024-10-12",
+    "readingTime": 7,
+    "hashtags": ["#javascript", "#coding", "#programming"]
+  },
+  {
+    "id": 5,
+    "coverImage": "https://example.com/cover5.jpg",
+    "title": "The Ultimate Guide to Photography",
+    "author": "Emily Davis",
+    "authorPic": "../src/assets/images/profile.png",
+    "postedDate": "2024-10-20",
+    "readingTime": 10,
+    "hashtags": ["#photography", "#guide", "#skills"]
+  }
+]
